@@ -1,5 +1,5 @@
 
-```c++ 
+```arduino
  Serial.printLn("stm32 addict");
  ```
 <div>
